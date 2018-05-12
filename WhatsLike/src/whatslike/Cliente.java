@@ -6,7 +6,8 @@ import java.net.Socket;
 
 /**
  *
- * @author 11204785
+ * @author Lucilene Dallarosa 
+ * @author Tamires Domingues
  */
 public class Cliente {
     public static void main(String[] args) {
